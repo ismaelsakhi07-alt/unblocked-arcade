@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ismaelsakhi07-alt.github.io/unblocked-arcade/sitemap.xml
